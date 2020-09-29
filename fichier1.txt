@@ -1,0 +1,2 @@
+
+/*  Mon fichier fichier1.txt */ 
