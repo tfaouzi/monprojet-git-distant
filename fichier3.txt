@@ -1,1 +1,0 @@
-/* Première ligne de votre fichier3.txt */
